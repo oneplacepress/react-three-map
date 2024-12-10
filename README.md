@@ -248,4 +248,4 @@ Recommended to use at city level distances, but margin errors will be noticeable
 | `position: Vector3Tuple` | The 3D vector to convert back into geographic coordinates.      |
 | `origin: Coords`         | The geographic coordinates used as the origin for calculations. |
 
-Returns a `Coords` object representing the geographic coordinates of the point relative to the origin.
+Returns a `Coords` object representing the geographic coordinates of the point relative to the origin."# react-three-map" 
